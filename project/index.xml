@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Projects on internetchefen </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://internetchefen.se/project/index.xml/</link>
+    <language>en-us</language>
+    <author>Fredrik Lindner</author>
+    <copyright>Copyright (c) 2014, Fredrik Lindner; all rights reserved.</copyright>
+    <updated>Tue, 04 Nov 2014 21:33:57 CET</updated>
+    
+    <item>
+      <title>Creature Evolution</title>
+      <link>http://internetchefen.se/project/Creature-Evolution/</link>
+      <pubDate>Tue, 04 Nov 2014 21:33:57 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/Creature-Evolution/</guid>
+      <description>&lt;p&gt;Creature Evolution was an application I and some fellow students developed as our BSc thesis.
+Through genetic algorithms and neural networks the creatures movement patterns are evolved over time.&lt;/p&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/TI1YTttK8m8&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2D Fluids SPH</title>
+      <link>http://internetchefen.se/project/2D-Fluids-SPH/</link>
+      <pubDate>Tue, 04 Nov 2014 21:33:45 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/2D-Fluids-SPH/</guid>
+      <description>&lt;p&gt;For the course &amp;ldquo;Modelling and Simulation&amp;rdquo; I&amp;rsquo;ve done simple 2D fluid simulation with the use of SPH (Smoothed Particle Hydrodynamics).&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s written in C++, OpenGL and used OpenMP for simple multi-threading. The particles are rendered as &amp;ldquo;metaballs&amp;rdquo; via a frame buffer shader.
+Check out the (messy) &lt;a href=&#34;https://github.com/fredlb/MoS-SPH/&#34;&gt;code&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/sph-emitters.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mink</title>
+      <link>http://internetchefen.se/project/Mink/</link>
+      <pubDate>Tue, 04 Nov 2014 21:33:15 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/Mink/</guid>
+      <description>&lt;p&gt;Mink is an Android application that can translate handwritten text into a TeX/MathML that can then be futhered processed by sites like Wolfram Alpha.&lt;/p&gt;
+
+&lt;p&gt;The idea for Mink is to simplify the input of complex mathematical equations onto tablets and smartphones in a natural way.&lt;/p&gt;
+
+&lt;p&gt;The user has the ability to write equations directuly on the devices surface and mink will translate the input into MathML and TeX via VisionObjects MyScript Webservices. That then can be sent to services like WolframAlpha. If you have a smaller device, there is an option to instead take a picture of an equation written on paper. Once mink has parsed the image, the user can freely modify the equation to add or remove elements.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/mink-canvas.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/mink-camera.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/mink-wolfram.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/mink-menu.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SGCTSky</title>
+      <link>http://internetchefen.se/project/SGCTSky/</link>
+      <pubDate>Tue, 04 Nov 2014 21:32:21 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/SGCTSky/</guid>
+      <description>&lt;p&gt;SGCTSky (SGCT - Simple Graphics Cluster Toolkit) is a sky simulation made for a local dome theatre in Norrköping, Sweden. It renders a sky (Preetham) and fake volumetric clouds to a cluster that then projects it onto the dome.&lt;/p&gt;
+
+&lt;p&gt;This was accomplished by developing a small application with SGCT. Most of the heavy processing is accomplished on the GPU with a simple GLSL fragment shader. Some precomputation is done prior to sending it to the GPU.&lt;/p&gt;
+
+&lt;p&gt;A small GUI to control the simulation was made in C#. It connects to the master node and parses all the parameters from the UI.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/sgctsky_medium.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/sgctskyfisheye.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AssetViewer</title>
+      <link>http://internetchefen.se/project/AssetViewer/</link>
+      <pubDate>Tue, 04 Nov 2014 21:27:30 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/AssetViewer/</guid>
+      <description>&lt;p&gt;An little asset viewer made with PyQT for Autodesk Maya.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reads/writes to an XML file to store the asset metadata&lt;/li&gt;
+&lt;li&gt;Asset status&lt;/li&gt;
+&lt;li&gt;Asset preview image (with viewport snap option)&lt;/li&gt;
+&lt;li&gt;Filter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/assetViewer.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

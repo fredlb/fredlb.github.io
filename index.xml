@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on internetchefen </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://internetchefen.se/index.xml/</link>
+    <language>en-us</language>
+    <author>Fredrik Lindner</author>
+    <copyright>Copyright (c) 2014, Fredrik Lindner; all rights reserved.</copyright>
+    <updated>Tue, 04 Nov 2014 21:33:57 CET</updated>
+    
+    <item>
+      <title>Creature Evolution</title>
+      <link>http://internetchefen.se/project/Creature-Evolution/</link>
+      <pubDate>Tue, 04 Nov 2014 21:33:57 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/Creature-Evolution/</guid>
+      <description>&lt;p&gt;Creature Evolution was an application I and some fellow students developed as our BSc thesis.
+Through genetic algorithms and neural networks the creatures movement patterns are evolved over time.&lt;/p&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/TI1YTttK8m8&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2D Fluids SPH</title>
+      <link>http://internetchefen.se/project/2D-Fluids-SPH/</link>
+      <pubDate>Tue, 04 Nov 2014 21:33:45 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/2D-Fluids-SPH/</guid>
+      <description>&lt;p&gt;For the course &amp;ldquo;Modelling and Simulation&amp;rdquo; I&amp;rsquo;ve done simple 2D fluid simulation with the use of SPH (Smoothed Particle Hydrodynamics).&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s written in C++, OpenGL and used OpenMP for simple multi-threading. The particles are rendered as &amp;ldquo;metaballs&amp;rdquo; via a frame buffer shader.
+Check out the (messy) &lt;a href=&#34;https://github.com/fredlb/MoS-SPH/&#34;&gt;code&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/sph-emitters.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mink</title>
+      <link>http://internetchefen.se/project/Mink/</link>
+      <pubDate>Tue, 04 Nov 2014 21:33:15 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/Mink/</guid>
+      <description>&lt;p&gt;Mink is an Android application that can translate handwritten text into a TeX/MathML that can then be futhered processed by sites like Wolfram Alpha.&lt;/p&gt;
+
+&lt;p&gt;The idea for Mink is to simplify the input of complex mathematical equations onto tablets and smartphones in a natural way.&lt;/p&gt;
+
+&lt;p&gt;The user has the ability to write equations directuly on the devices surface and mink will translate the input into MathML and TeX via VisionObjects MyScript Webservices. That then can be sent to services like WolframAlpha. If you have a smaller device, there is an option to instead take a picture of an equation written on paper. Once mink has parsed the image, the user can freely modify the equation to add or remove elements.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/mink-canvas.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/mink-camera.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/mink-wolfram.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/mink-menu.png&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SGCTSky</title>
+      <link>http://internetchefen.se/project/SGCTSky/</link>
+      <pubDate>Tue, 04 Nov 2014 21:32:21 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/SGCTSky/</guid>
+      <description>&lt;p&gt;SGCTSky (SGCT - Simple Graphics Cluster Toolkit) is a sky simulation made for a local dome theatre in Norrköping, Sweden. It renders a sky (Preetham) and fake volumetric clouds to a cluster that then projects it onto the dome.&lt;/p&gt;
+
+&lt;p&gt;This was accomplished by developing a small application with SGCT. Most of the heavy processing is accomplished on the GPU with a simple GLSL fragment shader. Some precomputation is done prior to sending it to the GPU.&lt;/p&gt;
+
+&lt;p&gt;A small GUI to control the simulation was made in C#. It connects to the master node and parses all the parameters from the UI.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/sgctsky_medium.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/sgctskyfisheye.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AssetViewer</title>
+      <link>http://internetchefen.se/project/AssetViewer/</link>
+      <pubDate>Tue, 04 Nov 2014 21:27:30 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/project/AssetViewer/</guid>
+      <description>&lt;p&gt;An little asset viewer made with PyQT for Autodesk Maya.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reads/writes to an XML file to store the asset metadata&lt;/li&gt;
+&lt;li&gt;Asset status&lt;/li&gt;
+&lt;li&gt;Asset preview image (with viewport snap option)&lt;/li&gt;
+&lt;li&gt;Filter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/assetViewer.jpg&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Switching to Hugo</title>
+      <link>http://internetchefen.se/post/switching-to-hugo/</link>
+      <pubDate>Tue, 28 Oct 2014 09:04:16 CET</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/post/switching-to-hugo/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve now switched static site generator more times than I&amp;rsquo;ve written content with them.
+There wasn&amp;rsquo;t really anything wrong with &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, &lt;a href=&#34;http://octopress.org/&#34;&gt;Octopress&lt;/a&gt; or &lt;a href=&#34;http://blog.getpelican.com/&#34;&gt;Pelican&lt;/a&gt; but in my strive for minimalism &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt; definitely strikes a chord with me.
+It also gives me a chance to check out Go, which is something I&amp;rsquo;ve been meaning to do for a few months.&lt;/p&gt;
+
+&lt;p&gt;Why is it so fun to learn a new, emerging programming language?
+Well, at least for me it probably stems from having been taught C/C++ and Java in an academic setting, where there isn&amp;rsquo;t a whole lot of space given to talk about the language itself.
+You probably shouldn&amp;rsquo;t even talk that much about language when learning programming anyway.&lt;/p&gt;
+
+&lt;p&gt;Currently I&amp;rsquo;m trying to write a simple &lt;a href=&#34;http://en.wikipedia.org/wiki/Ray_tracing_(graphics)&#34;&gt;raytracer&lt;/a&gt; in Go.
+Hopefully it will be a valuable lesson on goroutines :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://internetchefen.se/cv/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/cv/</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Employment&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h4 id=&#34;toc_1&#34;&gt;Software Engineer @ Znaptag, 2014&lt;/h4&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h4 id=&#34;toc_2&#34;&gt;iOS/Android developer @ SKF Connectivity Room, 2014&lt;/h4&gt;
+
+&lt;p&gt;During the summer of 2014 I helped SKF develop an iOS and Android app for their brand managment division.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h4 id=&#34;toc_3&#34;&gt;IDA Summer of Code @ Linköping Univeristy, 2013&lt;/h4&gt;
+
+&lt;p&gt;Employed by the university to develop the Android app &amp;ldquo;mink&amp;rdquo;. Read more about it on &lt;a href=&#34;http://devunderinfluence.blogspot.se/search/label/ISOC&#34;&gt;DUI&lt;/a&gt;!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h4 id=&#34;toc_4&#34;&gt;Lab assistant @ Linköping University, 2013&lt;/h4&gt;
+
+&lt;p&gt;Lab assistant in an introductionary course to OOP in Java.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h4 id=&#34;toc_5&#34;&gt;2D/3D Generalist @ Copenhagen Bombay, 2010&lt;/h4&gt;
+
+&lt;p&gt;Worked on the 3D animated film &lt;a href=&#34;http://www.imdb.com/title/tt1381803/&#34;&gt;The Great Bear&lt;/a&gt;. My tasks involved texture and matte painting, working on a billboard system and setting up scenes for render. In the later stages of production I worked mostly with managing one of the renderfarms (sw/hw).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h4 id=&#34;toc_6&#34;&gt;2D Artist @ Ratloop Asia, 2009&lt;/h4&gt;
+
+&lt;p&gt;Spent 4 months as an intern working on the game &lt;a href=&#34;http://www.rocketbirds.com/revolution/&#34;&gt;Rocketbirds: Revolution!&lt;/a&gt; doing level art.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_7&#34;&gt;Education&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h4 id=&#34;toc_8&#34;&gt;Media Technology &amp;amp; Engineering (BSc 2014) @ Linköping University, 2011-2016&lt;/h4&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h4 id=&#34;toc_9&#34;&gt;Digital Graphics @ School Of Future Entertainment 2008-2010&lt;/h4&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h4 id=&#34;toc_10&#34;&gt;Classical Painting @ Florence Academy of Art, 2008&lt;/h4&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_11&#34;&gt;Other&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;h4 id=&#34;toc_12&#34;&gt;&lt;a href=&#34;http://hackoutforsummer.se/&#34;&gt;Hack Out For Summer&lt;/a&gt;, 2014&lt;/h4&gt;
+
+&lt;p&gt;LiTHehack and Spotify organized a 1-day hackaton with the purpose of developing the ultimate summer app.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;h4 id=&#34;toc_13&#34;&gt;&lt;a href=&#34;http://lithehack.se/&#34;&gt;LiTHehack&lt;/a&gt; @ Linköping University, 2013-2014&lt;/h4&gt;
+
+&lt;p&gt;LiTHehack is a student-driven project at Linköping University aiming to help and inspire students with programming. Anyone is offered guidance whenever it&amp;rsquo;s a school assignment, laboration or just a personal project.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_14&#34;&gt;Skills&lt;/h3&gt;
+
+&lt;h4 id=&#34;toc_15&#34;&gt;Code&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;    C/C++
+    OpenGL
+    Java
+    Android development
+    Qt
+    Python and PyQT
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;toc_16&#34;&gt;Art&lt;/h4&gt;
+
+&lt;pre&gt;&lt;code&gt;    Autodesk Maya
+    Mental Ray
+    RenderMan/RSL/3Delight
+    The Foundry Nuke/NukeX
+    Adobe Creative Suite 
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://internetchefen.se/about/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <author>Fredrik Lindner</author>
+      <guid>http://internetchefen.se/about/</guid>
+      <description>&lt;p&gt;My name is Fredrik and I am a software engineer at &lt;a href=&#34;http://www.znaptag.com&#34; title=&#34;Znaptag&#34;&gt;Znaptag&lt;/a&gt;.&lt;br /&gt;
+Prior to joining Znaptag I worked in the animation and games industry as a 2D/3D generalist.&lt;/p&gt;
+
+&lt;p&gt;Today I am an &amp;ldquo;artist turned programmer&amp;rdquo; :)&lt;br /&gt;
+Reach out to me: &lt;a href=&#34;mailto:fredrik.lindner@gmail.com&#34;&gt;email&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/prayforbacon&#34;&gt;twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
