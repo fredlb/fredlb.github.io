@@ -9,16 +9,18 @@
     <managingEditor>fredrik.lindner@gmail.com (Fredrik Lindner)</managingEditor>
     <webMaster>fredrik.lindner@gmail.com (Fredrik Lindner)</webMaster>
     <copyright>(c) 2016 Fredrik Lindner.</copyright>
-    <lastBuildDate>Sun, 22 May 2016 12:12:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fredlb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>hey</title>
-      <link>https://fredlb.github.io/2016/05/22/hey/</link>
-      <pubDate>Sun, 22 May 2016 12:12:17 +0200</pubDate>
+      <title>Raytracer</title>
+      <link>https://fredlb.github.io/2016/12/19/raytracer/</link>
+      <pubDate>Mon, 19 Dec 2016 00:00:00 +0000</pubDate>
       <author>fredrik.lindner@gmail.com (Fredrik Lindner)</author>
-      <guid>https://fredlb.github.io/2016/05/22/hey/</guid>
-      <description>&lt;p&gt;hej&lt;/p&gt;
+      <guid>https://fredlb.github.io/2016/12/19/raytracer/</guid>
+      <description>&lt;p&gt;I wrote a (stupid) &lt;a href=&#34;https://github.com/fredlb/raytracer&#34;&gt;simple raytracer in Go&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fredlb/raytracer/master/output.png&#34; alt=&#34;raytracer&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
