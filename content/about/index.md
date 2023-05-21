@@ -6,7 +6,7 @@ draft: false
 
 I'm Fredrik, I like to make things. I have a dog, her name is Maggan, she occupies most of my free time ;)
 
-For the past 8 years I've worked as a software engineer at Epidemic Sound, working with pretty much everything at one point or another. We were 6 engineers when I started and today we are +100.
+For the past 8 years I've worked as a software engineer at Epidemic Sound, working with pretty much everything at one point or another. We were 6 engineers when I started and today we are +100. I've held different positions over the years such as Tech Lead and Platform Lead for epidemicsound.com
 
 Today I spend my time in the "Client Infrastructure" team which sits between the SRE team and the product teams working on projects that require deep technical knowledge of our platforms and infrastructure.
 
