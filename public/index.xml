@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>boring utopia</title>
+    <link>https://fredlb.github.io/</link>
+    <description>Recent content on boring utopia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2023 09:27:32 +0200</lastBuildDate><atom:link href="https://fredlb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keyboard</title>
+      <link>https://fredlb.github.io/projects/keyboard/</link>
+      <pubDate>Sat, 20 May 2023 09:27:32 +0200</pubDate>
+      
+      <guid>https://fredlb.github.io/projects/keyboard/</guid>
+      <description>In 2023 I designed my own keyboard and had it manufactured</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+baseURL = 'https://fredlb.github.io/'
+languageCode = 'en-us'
+title = "boring utopia"
+theme = 'archie'
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Projects"
+url = "/projects"
+weight = 1
+
