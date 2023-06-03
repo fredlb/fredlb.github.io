@@ -14,7 +14,7 @@ So, to sort of get to "the end" with this obsession, or potentially dig the hole
 ## tl;dr
 Here is my "final" prototype, manufactured in aluminum. It's essentially a fork of the popular open source design [bakeneko60](https://github.com/kkatano/bakeneko-60), but supports other physical layouts such as the one here in HHKB-style.
 
-![Final prototype of my keyboard](final.png "Final prototype of my keyboard")
+![Final prototype of my keyboard](final.jpg "Final prototype of my keyboard")
 
 ## Design/CAD
 I started out my design by simply modifying the design from bakeneko-60, since it's a design that has gone through several improvements and is compatible with several open source PCBs, such as the [waffling60](https://github.com/4pplet/waffling60).
