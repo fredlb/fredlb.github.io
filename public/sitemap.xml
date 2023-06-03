@@ -2,18 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fredlb.github.io/projects/</loc>
-    <lastmod>2023-05-20T09:27:32+02:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://fredlb.github.io/</loc>
+    <loc>https://boringutopia.com/</loc>
     <lastmod>2023-05-20T09:27:32+02:00</lastmod>
   </url><url>
-    <loc>https://fredlb.github.io/projects/keyboard/</loc>
+    <loc>https://boringutopia.com/projects/keyboard/</loc>
     <lastmod>2023-05-20T09:27:32+02:00</lastmod>
   </url><url>
-    <loc>https://fredlb.github.io/categories/</loc>
+    <loc>https://boringutopia.com/projects/</loc>
+    <lastmod>2023-05-20T09:27:32+02:00</lastmod>
   </url><url>
-    <loc>https://fredlb.github.io/tags/</loc>
+    <loc>https://boringutopia.com/about/</loc>
+    <lastmod>2023-01-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://boringutopia.com/projects/podcast_player/</loc>
+    <lastmod>2022-01-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://boringutopia.com/categories/</loc>
+  </url><url>
+    <loc>https://boringutopia.com/tags/</loc>
   </url>
 </urlset>
