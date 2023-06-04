@@ -183,10 +183,10 @@ footer {
 .footer-info {
   padding: var(--footer-padding);
   font-size: 0.8rem;
-  color: grey;
+  color: #999;
 }
 .footer-info a {
-  border-bottom: 3px solid grey;
+  border-bottom: 3px solid #999;
   color: inherit;
   text-decoration: none;
 }
