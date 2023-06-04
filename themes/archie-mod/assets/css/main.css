@@ -1,7 +1,7 @@
 /* Markdown */
 :root{
 --maincolor: black;
---bordercl: grey;
+--bordercl: lightgrey;
 --callouctcolor:dodgerblue;
 --hovercolor:navy;
 --darkMaincolor: #50fa7b;
@@ -182,6 +182,13 @@ footer {
 }
 .footer-info {
   padding: var(--footer-padding);
+  font-size: 0.8rem;
+  color: grey;
+}
+.footer-info a {
+  border-bottom: 3px solid grey;
+  color: inherit;
+  text-decoration: none;
 }
 
 /* Common */
