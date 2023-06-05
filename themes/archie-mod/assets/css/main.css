@@ -54,6 +54,14 @@ a:hover {
     color: #fff;
 }
 
+.homeicon {
+  all: unset;
+}
+.homeicon:hover {
+  all: unset;
+  cursor: pointer;
+}
+
 ul {
   list-style: none;
   padding-left: 2ch;
@@ -343,8 +351,8 @@ table td{
 }
 
 .boring-icon svg {
-  height: 1em;
-  width: 1em;
+  height: 2em;
+  width: 2em;
   top: 0.225em;
   position: relative;
 }
