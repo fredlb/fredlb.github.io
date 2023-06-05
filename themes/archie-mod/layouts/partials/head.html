@@ -1,14 +1,42 @@
 <header>
-	<div class="main">
-		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-	</div>
-	<nav>
-		{{ range .Site.Menus.main }}
-		<a href="{{ .URL }}">{{ .Name }}</a>
-		{{ end }}
-		{{ if eq .Site.Params.mode "toggle" -}}
+    <div class="main">
+        <div class="boring-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+                <defs>
+                    <style>
+                        .cls-1 {
+                            stroke-linecap: round;
+                        }
+
+                        .cls-1, .cls-2 {
+                            fill: none;
+                            stroke: #000;
+                            stroke-miterlimit: 10;
+                            stroke-width: 36px;
+                        }
+                    </style>
+                </defs>
+                <g id="Layer_1" data-name="Layer 1">
+                    <path d="m320,36c38.36,0,75.54,7.5,110.53,22.3,33.81,14.3,64.19,34.78,90.28,60.88,26.09,26.09,46.58,56.47,60.88,90.28,14.8,34.99,22.3,72.18,22.3,110.53s-7.5,75.54-22.3,110.53c-14.3,33.81-34.78,64.19-60.88,90.28-26.09,26.09-56.47,46.58-90.28,60.88-34.99,14.8-72.18,22.3-110.53,22.3s-75.54-7.5-110.53-22.3c-33.81-14.3-64.19-34.78-90.28-60.88-26.09-26.09-46.58-56.47-60.88-90.28-14.8-34.99-22.3-72.18-22.3-110.53s7.5-75.54,22.3-110.53c14.3-33.81,34.78-64.19,60.88-90.28s56.47-46.58,90.28-60.88c34.99-14.8,72.18-22.3,110.53-22.3m0-36C143.27,0,0,143.27,0,320s143.27,320,320,320,320-143.27,320-320S496.73,0,320,0h0Z"/>
+                    <path class="cls-2"
+                          d="m320,628.97v-308.53c0-48.82,25.67-79.21,35.56-89.66,52.89-55.98,138.2-46.96,236.14-46.96"/>
+                </g>
+                <g id="Layer_2" data-name="Layer 2">
+                    <path class="cls-1"
+                          d="m36.1,320c46,.17,45.8,56.17,91.79,56.33s46.2-55.83,92.2-55.67,45.8,56.17,91.8,56.33"/>
+                    <line class="cls-1" x1="319.33" y1="378.42" x2="450.82" y2="378.42"/>
+                </g>
+            </svg>
+        </div>
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    </div>
+    <nav>
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+        {{ if eq .Site.Params.mode "toggle" -}}
         | <span id="dark-mode-toggle" onclick="toggleTheme()"></span>
-		<script src="{{ .Site.BaseURL }}js/themetoggle.js"></script>
-		{{ end }}
-	</nav>
+        <script src="{{ .Site.BaseURL }}js/themetoggle.js"></script>
+        {{ end }}
+    </nav>
 </header>
