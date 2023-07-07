@@ -2,6 +2,8 @@ baseURL = 'https://boringutopia.com/'
 languageCode = 'en-us'
 title = "boring utopia"
 theme = 'archie-mod'
+[markup.goldmark.renderer]
+  unsafe = true
 
 [[menu.main]]
 name = "Home"
