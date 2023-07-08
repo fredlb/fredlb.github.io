@@ -6,7 +6,7 @@ summary: "A tool to help you find your way around your new keyboard's many layer
 ---
 
 <p align="center">
-  <img src="icon_sm.png" style="border: none;">
+  <img width=256 src="icon.png" style="border: none;">
 </p>
 
 This is a simple little application for macOS that can show you an overlay of a layer on your keyboard.
