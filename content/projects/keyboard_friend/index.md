@@ -1,5 +1,5 @@
 ---
-title: "KeyboardFriend, an application for macOs"
+title: "KeyboardFriend, an application for macOS"
 date: 2023-07-07T09:27:32+02:00
 draft: false
 summary: "A tool to help you find your way around your new keyboard's many layers"
@@ -9,7 +9,7 @@ summary: "A tool to help you find your way around your new keyboard's many layer
   <img src="icon_sm.png" style="border: none;">
 </p>
 
-This is a simple little application for macOs that can show you an overlay of a layer on your keyboard.
+This is a simple little application for macOS that can show you an overlay of a layer on your keyboard.
 Availible on Github, [KeyboardFriend](https://github.com/fredlb/KeyboardFriend)
 
 You give it your [QMK json layout](https://config.qmk.fm/#/planck/rev6_drop/LAYOUT_ortho_4x12), and it allows you to set a hotkey (F16-F20) for a layer.
